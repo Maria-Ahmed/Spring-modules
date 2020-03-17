@@ -1,0 +1,1 @@
+selfconfiguration-pom.xml
